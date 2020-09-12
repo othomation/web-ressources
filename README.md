@@ -26,7 +26,7 @@
 |-|-
 |[Free-Code-Camp](https://www.freecodecamp.org/)|Site pour apprendre le HTML, CSS, JS et plein dautres choses à travers des séries d'explications et d'exercices interactifs. Gratuit.
 |[Code-Cademy](https://www.codecademy.com/)|Comme freeCodeCamp mais avec des options payante. C'est top aussi :) Mais ça va moins en détail. Mais c'est plus intuitif.
-
+|[GIT-learn](https://learngitbranching.js.org/?locale=fr_FR)|Site interactif pour apprendre GIT.
 
 ## Outils
 

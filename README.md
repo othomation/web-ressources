@@ -28,6 +28,7 @@
 |[Code-Cademy](https://www.codecademy.com/)|Comme freeCodeCamp mais avec des options payante. C'est top aussi :) Mais ça va moins en détail. Mais c'est plus intuitif.
 |[GIT-learn](https://learngitbranching.js.org/?locale=fr_FR)|Site interactif pour apprendre GIT.
 |[Learn-React](https://www.kirupa.com/react/index.htm)| Un cours linéaire pour apprendre react.
+|[Bootstrap-Layout](https://getbootstrap.com/docs/4.5/layout/overview/)| L'explication du layout de Bootstrap.
 
 ## Outils
 
